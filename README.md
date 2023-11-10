@@ -3,7 +3,8 @@
 <h2 align="left">Hi there👋, take a look!🐱</h2>
 
 <br><br><br><br>
-<p align="left">🎮 <a href="https://manofthestreet.github.io/js_battleTank/">배틀 탱크 게임 플레이(Try My Game " Battle Tank ")</a></p>
+<p align="left">🎮 <a href="https://manofthestreet.github.io/js_battleTank/">제가 만든 "배틀 탱크" 라는 웹게임 입니다.</a></br>
+🎮 <a href="https://manofthestreet.github.io/js_battleTank/">Try My Game " Battle Tank "!</a></p>
 <br><br>
 <h3 align="left">💪해본 것</h3>
 <p align="left">
