@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20.&fontSize=50&animation=wave)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there,%20take%20a%20look!&fontSize=40&animation=twinkling)
+
 <h1 align="left">안녕하세요. 반갑습니다.😄</h1>
 
-<h2 align="left">Hi there👋, take a look!🐱</h2>
+<br><br><br>
 
-<br><br><br><br>
  <p align="left">
   🎮 <a href="https://manofthestreet.github.io/js_battleTank/" target="_blank">제가 만든 "배틀 탱크" 라는 웹게임 입니다.</a></br>
   🎮 <a href="https://manofthestreet.github.io/js_battleTank/" target="_blank">Try My Game "Battle Tank"!</a>
@@ -23,19 +23,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manofthestreet&label=Profile%20views&color=0e75b6&style=flat" alt="manofthestreet" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manofthestreet&" alt="manofthestreet" /></p>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Hello,%20.&fontSize=50&animation=wave)
-<!--
-**ManoftheStreet/ManoftheStreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=manofthestreet&" alt="manofthestreet" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&animation=wave)
