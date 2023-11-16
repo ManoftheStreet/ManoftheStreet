@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Seong%20Hyun.&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20.&fontSize=50&animation=wave)
 <h1 align="left">안녕하세요. 반갑습니다.😄</h1>
 
 <h2 align="left">Hi there👋, take a look!🐱</h2>
@@ -24,6 +24,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manofthestreet&label=Profile%20views&color=0e75b6&style=flat" alt="manofthestreet" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manofthestreet&" alt="manofthestreet" /></p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20.&fontSize=50&animation=wave)
 <!--
 **ManoftheStreet/ManoftheStreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
