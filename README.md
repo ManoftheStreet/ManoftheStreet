@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Seong%20Hyun.&fontSize=50&animation=fadeIn)
 <h1 align="left">안녕하세요. 반갑습니다.😄</h1>
 
 <h2 align="left">Hi there👋, take a look!🐱</h2>
