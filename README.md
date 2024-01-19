@@ -25,4 +25,4 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manofthestreet&" alt="manofthestreet" /></p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&animation=wave)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there,%20take%20a%20look!&fontColor=f7f5f5&fontSize=40&fontAlignY=40&animation=twinkling)
